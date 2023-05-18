@@ -1,0 +1,78 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100&family=Permanent+Marker&display=swap");
+
+nav {
+  width: 1920px;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: baseline;
+  padding-top: 30px;
+}
+nav div a {
+  text-decoration: none;
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 24px;
+  text-transform: capitalize;
+  color: #394149;
+  margin-right: 41px;
+}
+.text1 {
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 106.5%;
+  color: #f58a07;
+  text-decoration: none;
+  background: rgba(245, 138, 7, 0.1);
+  border-radius: 31px;
+  width: 173px;
+  height: 52px;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+.logo {
+  width: 122px;
+  height: 28px;
+  padding-right: 400px;
+}
+.input1 {
+  border-radius: 27px;
+  background: rgba(210, 218, 237, 0.17);
+  width: 628px;
+  height: 54px;
+  border: none;
+  margin-top: 60px;
+}
+.input2 {
+  border-radius: 27px;
+  background: rgba(210, 218, 237, 0.17);
+  width: 628px;
+  height: 54px;
+  margin-left: 24px;
+  border: none;
+}
+.input3 {
+  border-radius: 27px;
+  background: rgba(210, 218, 237, 0.17);
+  width: 628px;
+  height: 54px;
+  border: none;
+}
+.input4 {
+  border-radius: 27px;
+  background: rgba(210, 218, 237, 0.17);
+  width: 628px;
+  height: 54px;
+  margin-left: 24px;
+  border: none;
+}
+.contact_us {
+  width: 1920px;
+  height: 700px;
+  margin-top: 100px;
+}
