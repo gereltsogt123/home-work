@@ -39,6 +39,325 @@ nav div a {
   padding-right: 400px;
 }
 .contactus {
+  display: flex;
   width: 1920px;
+  height: 1000px;
+}
+.input1 {
+  border-radius: 27px;
+  background: rgba(210, 218, 237, 0.17);
+  width: 605px;
+  height: 54px;
+  border: none;
+  margin-top: 60px;
+}
+.input2 {
+  border-radius: 27px;
+  background: rgba(210, 218, 237, 0.17);
+  width: 605px;
+  height: 54px;
+  border: none;
+  margin-top: 16px;
+}
+.input3 {
+  border-radius: 27px;
+  background: rgba(210, 218, 237, 0.17);
+  width: 605px;
+  height: 54px;
+  border: none;
+  margin-top: 16px;
+}
+.input4 {
+  border-radius: 27px;
+  background: rgba(210, 218, 237, 0.17);
+  width: 605px;
+  height: 160px;
+  border: none;
+  margin-top: 16px;
+}
+.inputleft {
+  width: 500px;
+  margin-left: 320px;
+  display: flex;
+}
+.contacth {
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 48px;
+  line-height: 64px;
+  letter-spacing: -0.03em;
+  width: 561px;
+  height: 128px;
+  color: #1d3444;
+  margin-top: 120px;
+}
+.contactp {
+  width: 524px;
+  height: 30px;
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 30px;
+  color: #5b5b5b;
+}
+.contactlefttext {
+  margin-left: 320px;
+}
+::placeholder {
+  font-family: "Inter", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  color: #9c9c9c;
+  padding-left: 30px;
+}
+.submit {
+  font-family: "Inter", sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 106.5%;
+  text-transform: capitalize;
+  color: #ffffff;
+  width: 119px;
+  height: 54px;
+  left: 320px;
+  top: 824px;
+  background: #f58a07;
+  border-radius: 31px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 32px;
+  text-decoration: none;
+}
+.contactright {
+  width: 500px;
   height: 700px;
+  display: flex;
+  margin-top: 120px;
+  margin-left: 200px;
+}
+.loc {
+  width: 99px;
+  height: 30px;
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 30px;
+  letter-spacing: -0.03em;
+  color: #0d1317;
+}
+.con {
+  height: 30px;
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 30px;
+  letter-spacing: -0.03em;
+  color: #0d1317;
+}
+.dlf {
+  width: 270px;
+  height: 60px;
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 30px;
+  color: #5b5b5b;
+}
+.number1 {
+  width: 270px;
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  color: #5b5b5b;
+}
+.iframe {
+  margin-left: 150px;
+  width: 620px;
+  height: 370px;
+  background: #c4c4c4;
+  border-radius: 20px;
+}
+.righttext {
+  margin-left: 100px;
+}
+.footer {
+  position: relative;
+  width: 1920px;
+  height: 463px;
+  background-color: #063255;
+  background-image: url(./zz/Footer\ Left.png);
+  background-repeat: no-repeat;
+  background-position: top 80px left 320px;
+}
+.input {
+  width: 342px;
+  height: 54px;
+  background: #ffffff;
+  border-radius: 31px;
+  margin-left: 137px;
+  margin-top: 24px;
+}
+.ftxt {
+  display: flex;
+  margin-left: 781px;
+  padding-top: 80px;
+}
+.ftxt a {
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 27px;
+  color: #ffffff;
+  text-decoration: none;
+}
+.connect {
+  margin-left: 106px;
+}
+.join1 {
+  margin-left: 200px;
+}
+.ftxt1 {
+  display: flex;
+  margin-top: 10px;
+  margin-left: 781px;
+}
+.ftxt1 a {
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  color: #ffffff;
+  text-decoration: none;
+}
+.txt18 {
+  margin-top: 24px;
+}
+.txt19 {
+  margin-left: 126px;
+  margin-top: 24px;
+}
+.careers {
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  color: #ffffff;
+  text-decoration: none;
+}
+.number {
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  color: #ffffff;
+  text-decoration: none;
+  margin-left: 133px;
+}
+.ftxt2 {
+  margin-left: 781px;
+}
+.ftxt3 {
+  display: flex;
+  margin-left: 781px;
+}
+.subs {
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 106.5%;
+  color: #ffffff;
+  text-transform: capitalize;
+  text-decoration: none;
+  background: #f58a07;
+  border-radius: 31px;
+  width: 156px;
+  height: 54px;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  margin-left: 395px;
+}
+.serv {
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  color: #ffffff;
+  text-decoration: none;
+  margin-top: 24px;
+}
+.footer .blog {
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  color: #ffffff;
+  text-decoration: none;
+  margin-left: 781px;
+  display: flex;
+  margin-top: 24px;
+}
+.ftxt4 a {
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  color: #ffffff;
+  text-decoration: none;
+}
+.ftxt4 {
+  display: flex;
+  margin-left: 320px;
+  margin-top: 84px;
+}
+.pirav {
+  margin-left: 733px;
+}
+.terms {
+  margin-left: 32px;
+}
+
+::placeholder {
+  font-family: "Inter", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  color: #9c9c9c;
+  padding-inline-start: 32px;
+}
+.orange1 {
+  position: absolute;
+  background: #f58a07;
+  width: 53px;
+  height: 144px;
+  border-radius: 0 20px 0px 0px;
+  bottom: 0px;
+}
+.orange2 {
+  position: absolute;
+  background: #f58a07;
+  width: 53px;
+  height: 287px;
+  border-radius: 20px 0px 0px 20px;
+  right: 0;
+  top: 10%;
 }
