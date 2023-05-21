@@ -1,5 +1,5 @@
 # home-work
-https://gereltsogt123.github.io/home-work/careers2/
+https://gereltsogt123.github.io/home-work/careers2.html/
 <br/>
 https://gereltsogt123.github.io/home-work/Blog.html
 <br/>
