@@ -337,3 +337,89 @@ nav div a {
   right: 0;
   top: 10%;
 }
+.blog1 {
+  width: 1920px;
+  height: 700px;
+  background: #dceaf5;
+  display: flex;
+}
+.andrew {
+  width: 123px;
+  height: 32px;
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 32px;
+  color: #394149;
+  opacity: 0.87;
+  margin-left: 10px;
+}
+.posted {
+  width: 222px;
+  height: 32px;
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 32px;
+  color: #394149;
+  opacity: 0.87;
+  margin-left: 10px;
+}
+.blog1iinflex {
+  display: flex;
+  align-items: center;
+}
+.img1111 {
+  width: 32px;
+  height: 32px;
+  background: url(.png);
+}
+.readmore {
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 106.5%;
+  color: #f58a07;
+  text-decoration: none;
+}
+.internal {
+  width: 527px;
+  height: 216px;
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 64px;
+  line-height: 72px;
+  letter-spacing: -0.03em;
+  color: #1d3444;
+}
+.it {
+  width: 559px;
+  height: 90px;
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 30px;
+  color: #5b5b5b;
+}
+.leftheseg {
+  margin-left: 320px;
+  padding-top: 100px;
+}
+.blogright {
+  width: 621px;
+  height: 493px;
+}
+.blogright {
+  background-image: url(./zurag/back2222.png);
+  background-repeat: no-repeat;
+  width: 621px;
+  height: 493px;
+  border-radius: 20px;
+  margin-top: 120px;
+  margin-left: 90px;
+}
