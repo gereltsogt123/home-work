@@ -3,7 +3,6 @@ https://gereltsogt123.github.io/home-work/careers2/
 <br/>
 https://gereltsogt123.github.io/home-work/Blog.html
 <br/>
-<br>
 https://gereltsogt123.github.io/home-work/careers.html
 <br/>
 https://gereltsogt123.github.io/home-work/home.html
